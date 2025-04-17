@@ -1,0 +1,32 @@
+body{
+    background-color: aliceblue;
+    font-family: Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    border: 5px solid black;
+    margin: 50px;
+    padding: 50px;
+
+}
+.centered-list{
+    padding-left: 0;
+    list-style-position: outside;
+    margin: 0 auto;
+    display: table;
+    text-align: left;
+}
+
+.responsive-img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .emphasizedText{
+    font-style: italic;
+    color: black;
+  }
+
+  p{
+    font-weight: bold;
+    font-size: x-large;
+  }
+    
